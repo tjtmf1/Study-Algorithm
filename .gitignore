@@ -33,3 +33,8 @@
 
 
 *.opendb
+*.ipch
+*.sdf
+.vs/
+*/Debug/
+Debug/
