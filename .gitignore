@@ -1,4 +1,4 @@
-# Prerequisites
+﻿# Prerequisites
 *.d
 
 # Compiled Object files
@@ -31,7 +31,7 @@
 *.out
 *.app
 
-
+*.db
 *.opendb
 *.ipch
 *.sdf
