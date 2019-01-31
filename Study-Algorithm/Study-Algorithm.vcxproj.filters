@@ -13,13 +13,70 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Algorithm Problem">
+      <UniqueIdentifier>{a9c9de42-2d02-4b1c-a2e6-17738f171497}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure">
+      <UniqueIdentifier>{c3a785ce-2c05-43e3-911c-eb66c1219600}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm Problem\알고스팟">
+      <UniqueIdentifier>{4ee72db2-49a0-4793-86f3-2ed7c452260c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm Problem\백준 온라인 저지">
+      <UniqueIdentifier>{91f2551a-e5f9-4b11-921c-e28222c62a8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm Problem\코드포스">
+      <UniqueIdentifier>{8f0af891-ae1a-45c7-a938-ff1192b7da6d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Synchronizing Clocks.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
     <ClCompile Include="게임판 덮기.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="고대어 사전.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 제한 끝말잇기.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="도시락 데우기.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형 위의 최대 경로.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="신호 라우팅.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="외계 신호 분석.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="요새.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="울타리 잘라내기.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="캐나다 여행.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="크리스마스 인형.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="회전초밥.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
     </ClCompile>
     <ClCompile Include="1로 만들기.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
+    </ClCompile>
+    <ClCompile Include="계단 오르기.cpp">
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
+    </ClCompile>
+    <ClCompile Include="카드 구매하기.cpp">
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
