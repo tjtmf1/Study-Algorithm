@@ -16,9 +16,6 @@
     <Filter Include="소스 파일\Algorithm Problem">
       <UniqueIdentifier>{a9c9de42-2d02-4b1c-a2e6-17738f171497}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\DataStructure">
-      <UniqueIdentifier>{c3a785ce-2c05-43e3-911c-eb66c1219600}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Algorithm Problem\알고스팟">
       <UniqueIdentifier>{4ee72db2-49a0-4793-86f3-2ed7c452260c}</UniqueIdentifier>
     </Filter>
@@ -27,6 +24,9 @@
     </Filter>
     <Filter Include="소스 파일\Algorithm Problem\코드포스">
       <UniqueIdentifier>{8f0af891-ae1a-45c7-a938-ff1192b7da6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm Problem\SW Expert Academy">
+      <UniqueIdentifier>{f13c5364-0c79-4473-8b34-50f917f78bc1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -76,6 +76,123 @@
       <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
     </ClCompile>
     <ClCompile Include="카드 구매하기.cpp">
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
+    </ClCompile>
+    <ClCompile Include="Fedor and New Game.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue at the School.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Vanya and Lanterns.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="A and B and Compilation Errors.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Anton and Digits.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="T-primes.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Taxi.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Fox And Two Dots.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Ring road.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Xor-tree.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Cthulhu.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Dorm Water Supply.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Cut Ribbon.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Dreamoon and WiFi.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Game of Credit Cards.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Woodcutters.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Party Lemonade.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Journey.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="New Year and Curling.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Roads not only in Berland.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Eternal Victory.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Restore Graph.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Polycarp%27s Practice.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Two Buttons.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Xenia and Bit Operations.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Too Easy Problems.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Painting Fence.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Caesar%27s Legions.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="너의 티어는.cpp">
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
+    </ClCompile>
+    <ClCompile Include="N-Queen.cpp">
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 증가하는 부분 수열 5.cpp">
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
+    </ClCompile>
+    <ClCompile Include="등산로 조성.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="보호 필름.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="디저트 카페.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="벌꿀채취.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="프로세서 연결하기.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="차량 정비소.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="상어의 저녁식사.cpp">
       <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
     </ClCompile>
   </ItemGroup>
