@@ -31,6 +31,7 @@
 >* [1006B](http://codeforces.com/problemset/problem/1006/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polycarp's Practice<br>
 
 >알고스팟<br>
+>* [Mismatched Brackets](https://algospot.com/judge/problem/read/BRACKETS2)<br>
 >* [Synchronizing Clocks](https://algospot.com/judge/problem/read/CLOCKSYNC)<br>
 >* [게임판 덮기](https://algospot.com/judge/problem/read/BOARDCOVER)<br>
 >* [고대어 사전](https://algospot.com/judge/problem/read/DICTIONARY)<br>
