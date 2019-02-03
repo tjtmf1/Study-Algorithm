@@ -201,5 +201,11 @@
     <ClCompile Include="승부조작.cpp">
       <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
     </ClCompile>
+    <ClCompile Include="조세푸스 문제.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
+    <ClCompile Include="인터넷 서점.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
