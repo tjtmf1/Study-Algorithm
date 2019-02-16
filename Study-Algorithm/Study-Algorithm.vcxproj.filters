@@ -210,5 +210,8 @@
     <ClCompile Include="Mismatched Brackets.cpp">
       <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
     </ClCompile>
+    <ClCompile Include="미생물 격리.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
