@@ -213,5 +213,8 @@
     <ClCompile Include="미생물 격리.cpp">
       <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
     </ClCompile>
+    <ClCompile Include="Equivalent Strings.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

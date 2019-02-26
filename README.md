@@ -22,6 +22,7 @@
 >* [&nbsp;&nbsp;519B](http://codeforces.com/problemset/problem/519/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A and B and Compliation Errors<br>
 >* [&nbsp;&nbsp;520B](http://codeforces.com/problemset/problem/520/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two Buttons<br>
 >* [&nbsp;&nbsp;545C](http://codeforces.com/problemset/problem/545/C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Woodcutters<br>
+>* [&nbsp;&nbsp;559B](https://codeforces.com/problemset/problem/559/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equivalent Strings<br>
 >* [&nbsp;&nbsp;734B](http://codeforces.com/problemset/problem/734/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anton and Digits<br>
 >* [&nbsp;&nbsp;777B](http://codeforces.com/problemset/problem/777/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Game of Credit Cards<br>
 >* [&nbsp;&nbsp;839C](http://codeforces.com/problemset/problem/839/C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journey<br>
