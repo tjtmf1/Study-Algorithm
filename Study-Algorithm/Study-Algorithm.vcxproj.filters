@@ -216,5 +216,8 @@
     <ClCompile Include="Equivalent Strings.cpp">
       <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
     </ClCompile>
+    <ClCompile Include="감시.cpp">
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
