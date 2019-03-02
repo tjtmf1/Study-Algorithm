@@ -222,5 +222,8 @@
     <ClCompile Include="Maaaaaaaaaze.cpp">
       <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
     </ClCompile>
+    <ClCompile Include="Wildcard.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

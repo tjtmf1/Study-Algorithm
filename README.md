@@ -34,6 +34,7 @@
 >알고스팟<br>
 >* [Mismatched Brackets](https://algospot.com/judge/problem/read/BRACKETS2)<br>
 >* [Synchronizing Clocks](https://algospot.com/judge/problem/read/CLOCKSYNC)<br>
+>* [Wildcard](https://algospot.com/judge/problem/read/WILDCARD)<br>
 >* [게임판 덮기](https://algospot.com/judge/problem/read/BOARDCOVER)<br>
 >* [고대어 사전](https://algospot.com/judge/problem/read/DICTIONARY)<br>
 >* [단어 제한 끝말잇기](https://algospot.com/judge/problem/read/WORDCHAIN)<br>
