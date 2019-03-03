@@ -57,7 +57,8 @@
 >* [&nbsp;&nbsp;1671](https://www.acmicpc.net/problem/1671)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;상어의 저녁식사<br>
 >* [&nbsp;&nbsp;2579](https://www.acmicpc.net/problem/2579)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;계단 오르기<br>
 >* [&nbsp;&nbsp;9663](https://www.acmicpc.net/problem/9663)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N-Queen<br>
->* [11052](https://www.acmicpc.net/problem/1463)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;카드 구매하기<br>
+>* [11052](https://www.acmicpc.net/problem/11052)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;카드 구매하기<br>
+>* [12100](https://www.acmicpc.net/problem/12100)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2048 (Easy)<br>
 >* [14003](https://www.acmicpc.net/problem/14003)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;가장 긴 증가하는 부분 수열5<br>
 >* [14613](https://www.acmicpc.net/problem/14613)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;너의 티어는?<br>
 >* [15683](https://www.acmicpc.net/problem/15683)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;감시<br>
