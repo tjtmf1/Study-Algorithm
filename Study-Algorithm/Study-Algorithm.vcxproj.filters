@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Algorithm Problem\SW Expert Academy">
       <UniqueIdentifier>{f13c5364-0c79-4473-8b34-50f917f78bc1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Algorithm Problem\etc">
+      <UniqueIdentifier>{00adb121-2c2f-4703-ba17-0ccd189b8168}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Synchronizing Clocks.cpp">
@@ -227,6 +230,9 @@
     </ClCompile>
     <ClCompile Include="2048 (Easy).cpp">
       <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
+    </ClCompile>
+    <ClCompile Include="온코더 제9회 공식 코딩테스트 L자 타일 채우기.cpp">
+      <Filter>소스 파일\Algorithm Problem\etc</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
