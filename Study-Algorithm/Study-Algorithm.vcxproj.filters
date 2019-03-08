@@ -240,5 +240,8 @@
     <ClCompile Include="포도주 시식.cpp">
       <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
     </ClCompile>
+    <ClCompile Include="Longest Increasing Sequence.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

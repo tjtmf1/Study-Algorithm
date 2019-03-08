@@ -32,6 +32,7 @@
 >* [1006B](http://codeforces.com/problemset/problem/1006/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polycarp's Practice<br>
 
 >알고스팟<br>
+>* [Longest Increasing Sequence](https://algospot.com/judge/problem/read/LIS)<br>
 >* [Mismatched Brackets](https://algospot.com/judge/problem/read/BRACKETS2)<br>
 >* [Synchronizing Clocks](https://algospot.com/judge/problem/read/CLOCKSYNC)<br>
 >* [Wildcard](https://algospot.com/judge/problem/read/WILDCARD)<br>
