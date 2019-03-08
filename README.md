@@ -51,6 +51,7 @@
 >* [조세푸스 문제](https://algospot.com/judge/problem/read/JOSEPHUS)<br>
 >* [캐나다 여행](https://algospot.com/judge/problem/read/CANADATRIP)<br>
 >* [크리스마스 인형](https://algospot.com/judge/problem/read/CHRISTMAS)<br>
+>* [폴리오미노](https://algospot.com/judge/problem/read/POLY)<br>
 >* [회전초밥](https://algospot.com/judge/problem/read/SUSHI)<br>
 
 >백준 온라인 저지<br>
