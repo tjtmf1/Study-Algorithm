@@ -57,6 +57,7 @@
 >백준 온라인 저지<br>
 >* [&nbsp;&nbsp;1463](https://www.acmicpc.net/problem/1463)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1로 만들기<br>
 >* [&nbsp;&nbsp;1671](https://www.acmicpc.net/problem/1671)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;상어의 저녁식사<br>
+>* [&nbsp;&nbsp;1697](https://www.acmicpc.net/problem/1697)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;숨바꼭질<br>
 >* [&nbsp;&nbsp;2156](https://www.acmicpc.net/problem/2156)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;포도주 시식<br>
 >* [&nbsp;&nbsp;2579](https://www.acmicpc.net/problem/2579)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;계단 오르기<br>
 >* [&nbsp;&nbsp;9663](https://www.acmicpc.net/problem/9663)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N-Queen<br>
