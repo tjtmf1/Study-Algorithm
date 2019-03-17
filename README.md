@@ -40,6 +40,7 @@
 >* [고대어 사전](https://algospot.com/judge/problem/read/DICTIONARY)<br>
 >* [단어 제한 끝말잇기](https://algospot.com/judge/problem/read/WORDCHAIN)<br>
 >* [도시락 데우기](https://algospot.com/judge/problem/read/LUNCHBOX)<br>
+>* [두니발 박사의 탈옥](https://algospot.com/judge/problem/read/NUMB3RS)<br>
 >* [삼각형 위의 최대 경로](https://algospot.com/judge/problem/read/TRIANGLEPATH)<br>
 >* [소풍](https://algospot.com/judge/problem/read/PICNIC)<br>
 >* [숫자 게임](https://algospot.com/judge/problem/read/NUMBERGAME)<br>

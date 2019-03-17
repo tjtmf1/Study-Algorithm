@@ -255,5 +255,8 @@
     <ClCompile Include="숫자 게임.cpp">
       <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
     </ClCompile>
+    <ClCompile Include="두니발 박사의 탈옥.cpp">
+      <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
