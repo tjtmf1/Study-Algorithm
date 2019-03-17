@@ -42,6 +42,7 @@
 >* [도시락 데우기](https://algospot.com/judge/problem/read/LUNCHBOX)<br>
 >* [삼각형 위의 최대 경로](https://algospot.com/judge/problem/read/TRIANGLEPATH)<br>
 >* [소풍](https://algospot.com/judge/problem/read/PICNIC)<br>
+>* [숫자 게임](https://algospot.com/judge/problem/read/NUMBERGAME)<br>
 >* [승부조작](https://algospot.com/judge/problem/read/MATCHFIX)<br>
 >* [신호 라우팅](https://algospot.com/judge/problem/read/ROUTING)<br>
 >* [외계 신호 분석](https://algospot.com/judge/problem/read/ITES)<br>
