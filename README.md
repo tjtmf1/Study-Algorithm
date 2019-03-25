@@ -28,6 +28,8 @@
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Xor-tree.cpp)<br>
 >* [&nbsp;&nbsp;448C](http://codeforces.com/problemset/problem/448/C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Painting Fence
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Painting%20Fence.cpp)<br>
+>* [&nbsp;&nbsp;466C](http://codeforces.com/problemset/problem/466/C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of Ways
+&nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Number%20of%20Ways.cpp)<br>
 >* [&nbsp;&nbsp;467B](http://codeforces.com/problemset/problem/467/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fedor and New Game
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Fedor%20and%20New%20Game.cpp)<br>
 >* [&nbsp;&nbsp;476B](http://codeforces.com/problemset/problem/476/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dreamoon and WiFi
