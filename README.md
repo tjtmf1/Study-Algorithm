@@ -32,6 +32,8 @@
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Fedor%20and%20New%20Game.cpp)<br>
 >* [&nbsp;&nbsp;476B](http://codeforces.com/problemset/problem/476/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dreamoon and WiFi
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Dreamoon%20and%20WiFi.cpp)<br>
+>* [&nbsp;&nbsp;479C](http://codeforces.com/problemset/problem/479/C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exams
+&nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Exams.cpp)<br>
 >* [&nbsp;&nbsp;490B](http://codeforces.com/problemset/problem/490/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Queue
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Queue.cpp)<br>
 >* [&nbsp;&nbsp;492B](http://codeforces.com/problemset/problem/492/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vanya and Lanterns
