@@ -64,6 +64,8 @@
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Too%20Easy%20Problems.cpp)<br>
 >* [1006B](http://codeforces.com/problemset/problem/1006/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polycarp's Practice
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Polycarp's%20Practice.cpp)<br>
+>* [1141A](http://codeforces.com/problemset/problem/1141/A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Game 23
+&nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Game%2023.cpp)<br>
 
 >알고스팟<br>
 >* [Longest Increasing Sequence](https://algospot.com/judge/problem/read/LIS)

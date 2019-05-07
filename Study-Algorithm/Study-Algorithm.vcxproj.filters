@@ -258,5 +258,17 @@
     <ClCompile Include="두니발 박사의 탈옥.cpp">
       <Filter>소스 파일\Algorithm Problem\알고스팟</Filter>
     </ClCompile>
+    <ClCompile Include="Exams.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="Number of Ways.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
+    <ClCompile Include="미로1.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game 23.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
