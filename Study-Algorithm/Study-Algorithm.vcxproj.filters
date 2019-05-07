@@ -270,5 +270,8 @@
     <ClCompile Include="Game 23.cpp">
       <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
     </ClCompile>
+    <ClCompile Include="Maximal Continuous Rest.cpp">
+      <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
