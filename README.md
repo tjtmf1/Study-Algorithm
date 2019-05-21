@@ -68,6 +68,8 @@
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Game%2023.cpp)<br>
 >* [1141B](http://codeforces.com/problemset/problem/1141/B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximal Continuous Rest
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Maximal%20Continuous%20Rest.cpp)<br>
+>* [1141E](http://codeforces.com/problemset/problem/1141/E)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Superhero Battle
+&nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Superhero%20Battle.cpp)<br>
 
 >알고스팟<br>
 >* [Longest Increasing Sequence](https://algospot.com/judge/problem/read/LIS)
