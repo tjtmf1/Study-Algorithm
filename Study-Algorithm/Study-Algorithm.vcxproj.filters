@@ -276,5 +276,8 @@
     <ClCompile Include="Superhero Battle.cpp">
       <Filter>소스 파일\Algorithm Problem\코드포스</Filter>
     </ClCompile>
+    <ClCompile Include="백만 장자 프로젝트.cpp">
+      <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
