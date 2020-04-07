@@ -172,8 +172,10 @@
 >프로그래머스<br>
 >* [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.cpp)<br>
->* [가장 큰 수]](https://programmers.co.kr/learn/courses/30/lessons/42746)
+>* [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.cpp)<br>
+>* [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+&nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.cpp)<br>
 
 >etc<br>
 >* [제9회 온코더 공식 코딩테스트 4번 L자 타일 채우기](https://www.oncoder.com/developer/practice/list)
