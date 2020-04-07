@@ -169,6 +169,10 @@
 >* [프로세서 연결하기](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE)
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.cpp)<br>
 
+>프로그래머스<br>
+>* [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
+&nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.cpp)<br>
+
 >etc<br>
 >* [제9회 온코더 공식 코딩테스트 4번 L자 타일 채우기](https://www.oncoder.com/developer/practice/list)
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EC%98%A8%EC%BD%94%EB%8D%94%20%EC%A0%9C9%ED%9A%8C%20%EA%B3%B5%EC%8B%9D%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20L%EC%9E%90%20%ED%83%80%EC%9D%BC%20%EC%B1%84%EC%9A%B0%EA%B8%B0.cpp)<br>
