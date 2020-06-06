@@ -148,6 +148,8 @@
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EA%B0%90%EC%8B%9C.cpp)<br>
 >* [16985](https://www.acmicpc.net/problem/16985)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maaaaaaaaaze
 &nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/Maaaaaaaaaze.cpp)<br>
+>* [17779](https://www.acmicpc.net/problem/17779)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;게리맨더링 2
+&nbsp;&nbsp;&nbsp;[:page_facing_up:](https://github.com/tjtmf1/Study-Algorithm/blob/master/Study-Algorithm/%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81%202.cpp)<br>
 
 >SW Expert Academy<br>
 >* [등산로 조성](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE)

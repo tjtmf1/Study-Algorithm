@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Algorithm Problem\etc">
       <UniqueIdentifier>{00adb121-2c2f-4703-ba17-0ccd189b8168}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Algorithm Problem\프로그래머스">
+      <UniqueIdentifier>{96cb45d4-8a4b-496f-afea-e8b5331d6737}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Synchronizing Clocks.cpp">
@@ -278,6 +281,18 @@
     </ClCompile>
     <ClCompile Include="백만 장자 프로젝트.cpp">
       <Filter>소스 파일\Algorithm Problem\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="124 나라의 숫자.cpp">
+      <Filter>소스 파일\Algorithm Problem\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 큰 수.cpp">
+      <Filter>소스 파일\Algorithm Problem\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="베스트앨범.cpp">
+      <Filter>소스 파일\Algorithm Problem\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="게리맨더링2.cpp">
+      <Filter>소스 파일\Algorithm Problem\백준 온라인 저지</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
